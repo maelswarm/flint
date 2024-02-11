@@ -1,0 +1,28 @@
+{
+  "name": "buffet",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-nodemon": "^2.5.0",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "^3.0.0",
+    "mongodb": "^6.3.0",
+    "node-sass": "latest",
+    "sass": "^1.48.0",
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^6.9.9"
+  },
+  "dependencies": {
+  },
+  "author": "",
+  "license": "MIT"
+}
