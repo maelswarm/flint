@@ -1,6 +1,6 @@
-# buffet
+# flint
 
-A lightweight website boilerplate website template.
+A flash start website boilerplate.
 
 ## Install
 
