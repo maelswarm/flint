@@ -8,17 +8,25 @@ A flash start website boilerplate.
 
 ```Add a .env file at the project root```
 
+## Run
+
+launch an https server instance servering dist
+
 ``` npx gulp ```
 
 ## Todos
 
-Make gulpfile easily configurable
+Make gulpfile easily configurable (.env)
+
+Make server easily configurable (.env)
 
 ## Compilation
 
 Gulp is used to minify/optimise html/css/js
 
 Sass is in use.
+
+Wrapped https server instance in use.
 
 ## Routing
 
