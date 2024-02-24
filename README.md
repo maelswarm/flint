@@ -1,6 +1,6 @@
 # flint
 
-A flash start website boilerplate.
+A flash start website boilerplate
 
 ## Install
 
@@ -24,7 +24,7 @@ Make server easily configurable (.env)
 
 Gulp is used to minify/optimise html/css/js
 
-Sass is in use.
+Sass is in use
 
 Wrapped https server instance in use.
 
