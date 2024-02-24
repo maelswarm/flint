@@ -8,6 +8,8 @@ A flash start website boilerplate.
 
 ``` npx gulp ```
 
+```Add a .env file```
+
 ## Todos
 
 Make gulpfile easily configurable
