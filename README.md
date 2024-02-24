@@ -6,9 +6,9 @@ A flash start website boilerplate.
 
 ``` npm install ```
 
-``` npx gulp ```
+```Add a .env file at the project root```
 
-```Add a .env file```
+``` npx gulp ```
 
 ## Todos
 
